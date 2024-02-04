@@ -23,12 +23,12 @@ Users should be able to:
 
 ### Screenshot
 
-![]()
+![](https://github.com/Web-dev-rafik/faq-accordion/blob/main/screenshot.png)
 
 ### Links
 
-- Solution URL: [Code on Github]()
-- Live Site URL: [Live site URL]()
+- Solution URL: [Code on Github](https://github.com/Web-dev-rafik/faq-accordion)
+- Live Site URL: [Live site URL](https://web-dev-rafik.github.io/faq-accordion/)
 
 ## My process
 
